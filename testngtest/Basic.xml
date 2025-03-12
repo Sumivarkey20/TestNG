@@ -1,0 +1,11 @@
+<suite name="Basic">
+
+	<test name="Testcases">
+		<classes>
+			<class name="testngtest.SoftAssertEx" />
+			<class name="testngtest.BasicTestCase" />
+		</classes>
+	</test>
+
+</suite>
+

@@ -1,0 +1,15 @@
+<suite name="Basic">
+
+	<test name="Testcases">
+		<classes>
+			<class name="testngtest.SoftAssertEx">
+				<methods>
+					<include name="VerifyCheckboxstatus">
+					</include>
+				</methods>
+			</class>
+
+		</classes>
+	</test>
+
+</suite>
